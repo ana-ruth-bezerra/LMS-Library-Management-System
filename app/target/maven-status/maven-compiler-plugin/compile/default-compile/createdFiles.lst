@@ -1,0 +1,15 @@
+br\edu\ifba\inf008\shell\Core.class
+br\edu\ifba\inf008\shell\UIController$1.class
+br\edu\ifba\inf008\shell\IOController.class
+br\edu\ifba\inf008\shell\PluginController$1.class
+br\edu\ifba\inf008\shell\AuthenticationController.class
+br\edu\ifba\inf008\shell\User.class
+br\edu\ifba\inf008\shell\Book.class
+br\edu\ifba\inf008\shell\PluginController.class
+br\edu\ifba\inf008\shell\Loan.class
+br\edu\ifba\inf008\shell\LibraryDatabase.class
+br\edu\ifba\inf008\shell\SessionManager.class
+br\edu\ifba\inf008\shell\UIController$2.class
+br\edu\ifba\inf008\shell\UIController.class
+br\edu\ifba\inf008\App.class
+br\edu\ifba\inf008\shell\Login.class
