@@ -26,7 +26,7 @@ Este projeto foi desenvolvido na linguagem de programação **Java** na versão 
 - **Maven**;
 
 ## Instalação e Execução local
-- Faça o download da pasta zipada `microkernel` e descompacte a pasta usando a ferramenta de sua preferência;
+- Faça o download da pasta zipada `LMS-Library-Management-System` e descompacte a pasta usando a ferramenta de sua preferência;
 - Abra o **Prompt de Comando** e navegue até o diretório onde a pasta foi descompactada;
 - Faça a instalação do projeto com o comando abaixo:
 ```bash
